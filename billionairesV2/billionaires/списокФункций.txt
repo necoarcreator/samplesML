@@ -1,0 +1,108 @@
+
+*******************************************
+1. Класс readerEncoder - берёт csv таблицу со всей изначальной информацией и переводит всё в ней в числа.
+
+private:
+
+vector<vector<string>>* result;
+int size;
+int featureSize;
+
+readerEncoder(const readerEncoder& something) = delete; //убрал из неё копирующий конструктор, чтобы исключить какого-то двойного перевода в числа
+
+public:
+	readerEncoder(); //обычный конструктор, тут просто выделяется память под служебные переменные размеров и под матрицу информации result
+
+	void writeFile(); //файловый вывод матрицы result
+
+	bool checkIfNotVoid(string input); //проверка на пустоту элемента
+
+	bool check(char symb); //проверка на числовой символ
+
+	void checkUniqueFeatures(vector<string>* uniqueSphere, int featureNum); //поиск уникальных значений признака
+
+	void readParce(int numFeatures); //считывание файла
+
+	void deleteCommas(string* input); //удаление запятых в признаке "ВВП страны", больше нигде не нужно
+
+	void deleteRow(int num); //удаление признака
+
+	void deleteLine(int num); //удаление строки
+
+	void deleteAllUseless(); //удаление всех бесполезных признаков, вызывает deleteRow
+
+	void deleteUselessSamples(double threshold = 0.05); //удаление всех пустых строк (по умолчанию если пустых признаков у неё > 20%), вызывает deleteLine
+
+	void constructFeatureOneHot(vector<string> uniqueKeys, int featureNum); //для малого набора категориальных признаков
+
+	void constructFeatureTarget(vector<string> uniqueKeys, int numFeature); //для большого набора категориальных признаков
+
+	void turnIntoNumbers(vector<vector<double>>* output); //здесь собрано всё, чтобы удобно было вызвать  readerEncoder из другого класса 
+
+	~readerEncoder();
+
+
+*******************************************
+2. Класс Normalizer - нормирует семплы, чтобы сеть заранее не преувеличивала вес некоторых признаков
+
+private:
+	vector<vector<double>>* data;
+	int size;
+	int featureSize;
+	Normalizer(const Normalizer& something) = delete; //по тем же причинам убрал, программа должна отработать единожды и вызывается только один экземпляр этого класса
+public:
+	Normalizer(); //здесь вызывается readerEncoder и проделывает свою работу, перекладывает результат в переменные Normalizer'а
+
+	void convertHonkongToChina(); //у Гонконга были пустые столбцы, связанные с общеэкономическими показателями. Я решил для начала просто подогнать их под общекитайские
+
+	double countMean(int numFeature); //подсчёт среднего у признака
+
+	double countDispersion(int numFeature); //подсчёт несмещённой дисперсии у признака
+
+	void disperseNorm(int numFeature); //дисперсная нормировка
+
+	void disperseGaussianNorm(int numFeature); //нормировка нормальным распределением для возраста
+
+	void minimaxNorm(int numFeature); //нормировка минимаксная
+
+	void arcsinTransform(int numFeature); //нормировка арксинусом?? нигде пока не использовал
+
+	void boxCoxTransform(int numFeature, double lambda, double coeff = 1.0); //нормировка степенная/логарифмом
+
+	void tanhMeanTransform(int numFeature, bool useMean = true); //стандартная сигмоида, сдвинутая на среднее, тоже нигде не использовал, хотя и хотелось
+
+	void normalize(vector<vector<double>>* output); //здесь собрано всё, чтобы удобно было вызвать Normalizer из другого класса
+
+	~Normalizer();
+
+*******************************************
+3. Класс KohonenMap - собственно нейросеть. 
+
+private:
+
+	enum E_ALGO { E_FAST, E_PRECISE }; //хочу, чтобы она работала в двух режимах - "быстром" и "хорошо сходящимся". Первый запускается и показывает результаты не позже чем через n-ный промежуток времени, второй работает до последнего, пока не достигнет нужной точности
+	const string STR_ALGO[2] = {"fast", "precise"}; //пока доделать этого не получилось
+
+	vector<vector<double>>* data; //входная информация
+	vector<vector<double>>* weights; //веса узлов
+	vector<double> distanceSquared; //метрика между одним из семплов и каждым из узлов сети
+	int size;
+	int featureSize;
+	int numPoints; //число узлов
+	KohonenMap(const KohonenMap& something) = delete; //тоже не нужно, сеть вызывается только один раз 
+
+public:
+	size_t findWinner(size_t i); //поиск наиболее близкого к семплу узла
+	KohonenMap(int _numPoints, bool countHonKong = false); //задаются служебные величины и weights задаются случайными величинами от 0 до 1
+	~KohonenMap();
+	void training(int E_ALGO, int numEpoch); //по числу эпох (бесполезно??)
+	//вообще, надо бы ещё добавить функцию training, заканчивающую работу по достижению n-ного реального времени работы. Типа, она его достигла, досчитывет текущую эпоху и что имеется, то и выгружает в файл.
+	void training(int E_ALGO, double precision); //по точности привязки к узлам
+	void countErr(int winnerIndex, double* err, int algorithm = 0); //подсчёт суммарной ошибки. По умолчанию выполняется по МНК
+	void updateWeights(size_t i, int winnerIndex, int epoch, double alpha = 0.5); //поменять веса у winnerIndex-ого узла нейросети
+	
+	void print(int featureIndex); //записать в стандартный поток вывода все семплы featureIndex-ого признака у узлов
+
+	void writeToFile(); //выгрузить веса узлов
+*******************************************
+4*. Нужно ещё написать алгоритм того, как это всё должно загружаться в python и рисоваться там. Но, думаю, это меньшая из проблем :)

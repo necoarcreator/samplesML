@@ -1,0 +1,1821 @@
+-6303.37
+-493.657
+43.9196
+51.2632
+28.3212
+31.6606
+24.9173
+11.2811
+9.49959
+9.6409
+5.76002
+2.6737
+3.03972
+2.35691
+4.57849
+1.10782
+2.80145
+0.298191
+********************************
+unit number 1 had took 0 samples in it
+********************************
+unit number 2 had took 0 samples in it
+********************************
+unit number 3 had took 0 samples in it
+********************************
+unit number 4 had took 0 samples in it
+********************************
+unit number 5 had took 0 samples in it
+********************************
+unit number 6 had took 559 samples in it
+********************************
+unit number 7 had took 0 samples in it
+********************************
+unit number 8 had took 0 samples in it
+********************************
+unit number 9 had took 0 samples in it
+********************************
+unit number 10 had took 0 samples in it
+********************************
+unit number 11 had took 993 samples in it
+********************************
+unit number 12 had took 0 samples in it
+********************************
+unit number 13 had took 0 samples in it
+********************************
+unit number 14 had took 0 samples in it
+********************************
+unit number 15 had took 0 samples in it
+********************************
+unit number 16 had took 0 samples in it
+********************************
+unit number 17 had took 211 samples in it
+********************************
+unit number 18 had took 0 samples in it
+********************************
+unit number 19 had took 0 samples in it
+********************************
+unit number 20 had took 0 samples in it
+********************************
+unit number 21 had took 315 samples in it
+********************************
+unit number 22 had took 0 samples in it
+********************************
+unit number 23 had took 446 samples in it
+********************************
+unit number 24 had took 3674 samples in it
+********************************
+unit number 25 had took 0 samples in it
+********************************
+unit number 26 had took 0 samples in it
+********************************
+unit number 27 had took 0 samples in it
+********************************
+unit number 28 had took 0 samples in it
+********************************
+unit number 29 had took 0 samples in it
+********************************
+unit number 30 had took 0 samples in it
+********************************
+unit number 31 had took 0 samples in it
+********************************
+unit number 32 had took 0 samples in it
+********************************
+unit number 33 had took 0 samples in it
+********************************
+unit number 34 had took 0 samples in it
+********************************
+unit number 35 had took 0 samples in it
+********************************
+unit number 36 had took 259 samples in it
+********************************
+unit number 37 had took 0 samples in it
+********************************
+unit number 38 had took 55 samples in it
+********************************
+unit number 39 had took 29 samples in it
+********************************
+unit number 40 had took 0 samples in it
+********************************
+unit number 41 had took 0 samples in it
+********************************
+unit number 42 had took 0 samples in it
+********************************
+unit number 43 had took 0 samples in it
+********************************
+unit number 44 had took 10 samples in it
+********************************
+unit number 45 had took 0 samples in it
+********************************
+unit number 46 had took 1179 samples in it
+********************************
+unit number 47 had took 0 samples in it
+********************************
+unit number 48 had took 0 samples in it
+********************************
+unit number 49 had took 0 samples in it
+********************************
+unit number 50 had took 0 samples in it
+********************************
+unit number 51 had took 0 samples in it
+********************************
+unit number 52 had took 0 samples in it
+********************************
+unit number 53 had took 493 samples in it
+********************************
+unit number 54 had took 0 samples in it
+********************************
+unit number 55 had took 102 samples in it
+********************************
+unit number 56 had took 0 samples in it
+********************************
+unit number 57 had took 0 samples in it
+********************************
+unit number 58 had took 0 samples in it
+********************************
+unit number 59 had took 0 samples in it
+********************************
+unit number 60 had took 0 samples in it
+********************************
+unit number 61 had took 69 samples in it
+********************************
+unit number 62 had took 6 samples in it
+********************************
+unit number 63 had took 0 samples in it
+********************************
+unit number 64 had took 0 samples in it
+********************************
+unit number 65 had took 0 samples in it
+********************************
+unit number 66 had took 0 samples in it
+********************************
+unit number 67 had took 0 samples in it
+********************************
+unit number 68 had took 19 samples in it
+********************************
+unit number 69 had took 0 samples in it
+********************************
+unit number 70 had took 0 samples in it
+********************************
+unit number 71 had took 0 samples in it
+********************************
+unit number 72 had took 0 samples in it
+********************************
+unit number 73 had took 0 samples in it
+********************************
+unit number 74 had took 0 samples in it
+********************************
+unit number 75 had took 2062 samples in it
+********************************
+unit number 76 had took 359 samples in it
+********************************
+unit number 77 had took 0 samples in it
+********************************
+unit number 78 had took 0 samples in it
+********************************
+unit number 79 had took 0 samples in it
+********************************
+unit number 80 had took 0 samples in it
+********************************
+unit number 81 had took 0 samples in it
+********************************
+unit number 82 had took 0 samples in it
+********************************
+unit number 83 had took 0 samples in it
+********************************
+unit number 84 had took 0 samples in it
+********************************
+unit number 85 had took 0 samples in it
+********************************
+unit number 86 had took 0 samples in it
+********************************
+unit number 87 had took 0 samples in it
+********************************
+unit number 88 had took 279 samples in it
+********************************
+unit number 89 had took 0 samples in it
+********************************
+unit number 90 had took 0 samples in it
+********************************
+unit number 91 had took 0 samples in it
+********************************
+unit number 92 had took 0 samples in it
+********************************
+unit number 93 had took 0 samples in it
+********************************
+unit number 94 had took 1290 samples in it
+********************************
+unit number 95 had took 125 samples in it
+********************************
+unit number 96 had took 0 samples in it
+********************************
+unit number 97 had took 0 samples in it
+********************************
+unit number 98 had took 0 samples in it
+********************************
+unit number 99 had took 0 samples in it
+********************************
+unit number 100 had took 0 samples in it
+********************************
+unit number 101 had took 613 samples in it
+********************************
+unit number 102 had took 0 samples in it
+********************************
+unit number 103 had took 0 samples in it
+********************************
+unit number 104 had took 0 samples in it
+********************************
+unit number 105 had took 0 samples in it
+********************************
+unit number 106 had took 0 samples in it
+********************************
+unit number 107 had took 0 samples in it
+********************************
+unit number 108 had took 0 samples in it
+********************************
+unit number 109 had took 0 samples in it
+********************************
+unit number 110 had took 0 samples in it
+********************************
+unit number 111 had took 0 samples in it
+********************************
+unit number 112 had took 0 samples in it
+********************************
+unit number 113 had took 0 samples in it
+********************************
+unit number 114 had took 0 samples in it
+********************************
+unit number 115 had took 0 samples in it
+********************************
+unit number 116 had took 0 samples in it
+********************************
+unit number 117 had took 296 samples in it
+********************************
+unit number 118 had took 0 samples in it
+********************************
+unit number 119 had took 0 samples in it
+********************************
+unit number 120 had took 0 samples in it
+********************************
+unit number 121 had took 0 samples in it
+********************************
+unit number 122 had took 0 samples in it
+********************************
+unit number 123 had took 0 samples in it
+********************************
+unit number 124 had took 0 samples in it
+********************************
+unit number 125 had took 0 samples in it
+********************************
+unit number 126 had took 0 samples in it
+********************************
+unit number 127 had took 123 samples in it
+********************************
+unit number 128 had took 0 samples in it
+********************************
+unit number 129 had took 0 samples in it
+********************************
+unit number 130 had took 0 samples in it
+********************************
+unit number 131 had took 0 samples in it
+********************************
+unit number 132 had took 223 samples in it
+********************************
+unit number 133 had took 24 samples in it
+********************************
+unit number 134 had took 0 samples in it
+********************************
+unit number 135 had took 0 samples in it
+********************************
+unit number 136 had took 0 samples in it
+********************************
+unit number 137 had took 0 samples in it
+********************************
+unit number 138 had took 0 samples in it
+********************************
+unit number 139 had took 0 samples in it
+********************************
+unit number 140 had took 0 samples in it
+********************************
+unit number 141 had took 0 samples in it
+********************************
+unit number 142 had took 0 samples in it
+********************************
+unit number 143 had took 517 samples in it
+********************************
+unit number 144 had took 0 samples in it
+********************************
+unit number 145 had took 0 samples in it
+********************************
+unit number 146 had took 0 samples in it
+********************************
+unit number 147 had took 232 samples in it
+********************************
+unit number 148 had took 25 samples in it
+********************************
+unit number 149 had took 0 samples in it
+********************************
+unit number 150 had took 2 samples in it
+********************************
+unit number 151 had took 0 samples in it
+********************************
+unit number 152 had took 0 samples in it
+********************************
+unit number 153 had took 0 samples in it
+********************************
+unit number 154 had took 1463 samples in it
+********************************
+unit number 155 had took 67 samples in it
+********************************
+unit number 156 had took 35 samples in it
+********************************
+unit number 157 had took 0 samples in it
+********************************
+unit number 158 had took 264 samples in it
+********************************
+unit number 159 had took 0 samples in it
+********************************
+unit number 160 had took 0 samples in it
+********************************
+unit number 161 had took 0 samples in it
+********************************
+unit number 162 had took 0 samples in it
+********************************
+unit number 163 had took 0 samples in it
+********************************
+unit number 164 had took 0 samples in it
+********************************
+unit number 165 had took 0 samples in it
+********************************
+unit number 166 had took 974 samples in it
+********************************
+unit number 167 had took 0 samples in it
+********************************
+unit number 168 had took 0 samples in it
+********************************
+unit number 169 had took 0 samples in it
+********************************
+unit number 170 had took 792 samples in it
+********************************
+unit number 171 had took 0 samples in it
+********************************
+unit number 172 had took 0 samples in it
+********************************
+unit number 173 had took 0 samples in it
+********************************
+unit number 174 had took 0 samples in it
+********************************
+unit number 175 had took 0 samples in it
+********************************
+unit number 176 had took 0 samples in it
+********************************
+unit number 177 had took 0 samples in it
+********************************
+unit number 178 had took 23 samples in it
+********************************
+unit number 179 had took 0 samples in it
+********************************
+unit number 180 had took 0 samples in it
+********************************
+unit number 181 had took 0 samples in it
+********************************
+unit number 182 had took 0 samples in it
+********************************
+unit number 183 had took 302 samples in it
+********************************
+unit number 184 had took 0 samples in it
+********************************
+unit number 185 had took 240 samples in it
+********************************
+unit number 186 had took 0 samples in it
+********************************
+unit number 187 had took 85 samples in it
+********************************
+unit number 188 had took 0 samples in it
+********************************
+unit number 189 had took 0 samples in it
+********************************
+unit number 190 had took 0 samples in it
+********************************
+unit number 191 had took 0 samples in it
+********************************
+unit number 192 had took 0 samples in it
+********************************
+unit number 193 had took 0 samples in it
+********************************
+unit number 194 had took 0 samples in it
+********************************
+unit number 195 had took 6306 samples in it
+********************************
+unit number 196 had took 0 samples in it
+********************************
+unit number 197 had took 0 samples in it
+********************************
+unit number 198 had took 0 samples in it
+********************************
+unit number 199 had took 0 samples in it
+********************************
+unit number 200 had took 0 samples in it
+********************************
+unit number 201 had took 0 samples in it
+********************************
+unit number 202 had took 0 samples in it
+********************************
+unit number 203 had took 0 samples in it
+********************************
+unit number 204 had took 0 samples in it
+********************************
+unit number 205 had took 0 samples in it
+********************************
+unit number 206 had took 0 samples in it
+********************************
+unit number 207 had took 0 samples in it
+********************************
+unit number 208 had took 111 samples in it
+********************************
+unit number 209 had took 0 samples in it
+********************************
+unit number 210 had took 0 samples in it
+********************************
+unit number 211 had took 2 samples in it
+********************************
+unit number 212 had took 112 samples in it
+********************************
+unit number 213 had took 0 samples in it
+********************************
+unit number 214 had took 0 samples in it
+********************************
+unit number 215 had took 105 samples in it
+********************************
+unit number 216 had took 0 samples in it
+********************************
+unit number 217 had took 0 samples in it
+********************************
+Program ended successefully!
+-6345.26
+-413.23
+99.72
+21.0781
+15.3632
+74.4854
+15.0069
+0.60713
+15.0325
+5.31565
+4.31614
+1.05373
+7.87299
+22.403
+15.4478
+3.698
+3.94675
+4.10225
+5.23486
+0.415717
+********************************
+unit number 1 had took 0 samples in it
+********************************
+unit number 2 had took 0 samples in it
+********************************
+unit number 3 had took 0 samples in it
+********************************
+unit number 4 had took 0 samples in it
+********************************
+unit number 5 had took 0 samples in it
+********************************
+unit number 6 had took 0 samples in it
+********************************
+unit number 7 had took 0 samples in it
+********************************
+unit number 8 had took 0 samples in it
+********************************
+unit number 9 had took 0 samples in it
+********************************
+unit number 10 had took 423 samples in it
+********************************
+unit number 11 had took 0 samples in it
+********************************
+unit number 12 had took 0 samples in it
+********************************
+unit number 13 had took 0 samples in it
+********************************
+unit number 14 had took 0 samples in it
+********************************
+unit number 15 had took 0 samples in it
+********************************
+unit number 16 had took 0 samples in it
+********************************
+unit number 17 had took 0 samples in it
+********************************
+unit number 18 had took 0 samples in it
+********************************
+unit number 19 had took 0 samples in it
+********************************
+unit number 20 had took 0 samples in it
+********************************
+unit number 21 had took 126 samples in it
+********************************
+unit number 22 had took 0 samples in it
+********************************
+unit number 23 had took 0 samples in it
+********************************
+unit number 24 had took 0 samples in it
+********************************
+unit number 25 had took 0 samples in it
+********************************
+unit number 26 had took 0 samples in it
+********************************
+unit number 27 had took 0 samples in it
+********************************
+unit number 28 had took 0 samples in it
+********************************
+unit number 29 had took 0 samples in it
+********************************
+unit number 30 had took 0 samples in it
+********************************
+unit number 31 had took 0 samples in it
+********************************
+unit number 32 had took 0 samples in it
+********************************
+unit number 33 had took 0 samples in it
+********************************
+unit number 34 had took 0 samples in it
+********************************
+unit number 35 had took 0 samples in it
+********************************
+unit number 36 had took 0 samples in it
+********************************
+unit number 37 had took 2439 samples in it
+********************************
+unit number 38 had took 4308 samples in it
+********************************
+unit number 39 had took 0 samples in it
+********************************
+unit number 40 had took 0 samples in it
+********************************
+unit number 41 had took 0 samples in it
+********************************
+unit number 42 had took 0 samples in it
+********************************
+unit number 43 had took 0 samples in it
+********************************
+unit number 44 had took 0 samples in it
+********************************
+unit number 45 had took 5 samples in it
+********************************
+unit number 46 had took 0 samples in it
+********************************
+unit number 47 had took 0 samples in it
+********************************
+unit number 48 had took 0 samples in it
+********************************
+unit number 49 had took 0 samples in it
+********************************
+unit number 50 had took 0 samples in it
+********************************
+unit number 51 had took 1 samples in it
+********************************
+unit number 52 had took 0 samples in it
+********************************
+unit number 53 had took 1474 samples in it
+********************************
+unit number 54 had took 0 samples in it
+********************************
+unit number 55 had took 0 samples in it
+********************************
+unit number 56 had took 0 samples in it
+********************************
+unit number 57 had took 127 samples in it
+********************************
+unit number 58 had took 0 samples in it
+********************************
+unit number 59 had took 0 samples in it
+********************************
+unit number 60 had took 0 samples in it
+********************************
+unit number 61 had took 0 samples in it
+********************************
+unit number 62 had took 0 samples in it
+********************************
+unit number 63 had took 310 samples in it
+********************************
+unit number 64 had took 0 samples in it
+********************************
+unit number 65 had took 0 samples in it
+********************************
+unit number 66 had took 0 samples in it
+********************************
+unit number 67 had took 0 samples in it
+********************************
+unit number 68 had took 1256 samples in it
+********************************
+unit number 69 had took 0 samples in it
+********************************
+unit number 70 had took 0 samples in it
+********************************
+unit number 71 had took 3087 samples in it
+********************************
+unit number 72 had took 0 samples in it
+********************************
+unit number 73 had took 143 samples in it
+********************************
+unit number 74 had took 0 samples in it
+********************************
+unit number 75 had took 0 samples in it
+********************************
+unit number 76 had took 4282 samples in it
+********************************
+unit number 77 had took 0 samples in it
+********************************
+unit number 78 had took 35 samples in it
+********************************
+unit number 79 had took 0 samples in it
+********************************
+unit number 80 had took 0 samples in it
+********************************
+unit number 81 had took 0 samples in it
+********************************
+unit number 82 had took 0 samples in it
+********************************
+unit number 83 had took 0 samples in it
+********************************
+unit number 84 had took 0 samples in it
+********************************
+unit number 85 had took 0 samples in it
+********************************
+unit number 86 had took 0 samples in it
+********************************
+unit number 87 had took 0 samples in it
+********************************
+unit number 88 had took 0 samples in it
+********************************
+unit number 89 had took 58 samples in it
+********************************
+unit number 90 had took 29 samples in it
+********************************
+unit number 91 had took 0 samples in it
+********************************
+unit number 92 had took 0 samples in it
+********************************
+unit number 93 had took 440 samples in it
+********************************
+unit number 94 had took 0 samples in it
+********************************
+unit number 95 had took 0 samples in it
+********************************
+unit number 96 had took 25 samples in it
+********************************
+unit number 97 had took 0 samples in it
+********************************
+unit number 98 had took 0 samples in it
+********************************
+unit number 99 had took 0 samples in it
+********************************
+unit number 100 had took 0 samples in it
+********************************
+unit number 101 had took 0 samples in it
+********************************
+unit number 102 had took 0 samples in it
+********************************
+unit number 103 had took 0 samples in it
+********************************
+unit number 104 had took 0 samples in it
+********************************
+unit number 105 had took 20 samples in it
+********************************
+unit number 106 had took 276 samples in it
+********************************
+unit number 107 had took 0 samples in it
+********************************
+unit number 108 had took 0 samples in it
+********************************
+unit number 109 had took 0 samples in it
+********************************
+unit number 110 had took 0 samples in it
+********************************
+unit number 111 had took 0 samples in it
+********************************
+unit number 112 had took 0 samples in it
+********************************
+unit number 113 had took 0 samples in it
+********************************
+unit number 114 had took 0 samples in it
+********************************
+unit number 115 had took 0 samples in it
+********************************
+unit number 116 had took 0 samples in it
+********************************
+unit number 117 had took 0 samples in it
+********************************
+unit number 118 had took 0 samples in it
+********************************
+unit number 119 had took 0 samples in it
+********************************
+unit number 120 had took 0 samples in it
+********************************
+unit number 121 had took 0 samples in it
+********************************
+unit number 122 had took 99 samples in it
+********************************
+unit number 123 had took 0 samples in it
+********************************
+unit number 124 had took 0 samples in it
+********************************
+unit number 125 had took 0 samples in it
+********************************
+unit number 126 had took 0 samples in it
+********************************
+unit number 127 had took 1336 samples in it
+********************************
+unit number 128 had took 0 samples in it
+********************************
+unit number 129 had took 0 samples in it
+********************************
+unit number 130 had took 0 samples in it
+********************************
+unit number 131 had took 0 samples in it
+********************************
+unit number 132 had took 0 samples in it
+********************************
+unit number 133 had took 527 samples in it
+********************************
+unit number 134 had took 440 samples in it
+********************************
+unit number 135 had took 0 samples in it
+********************************
+unit number 136 had took 0 samples in it
+********************************
+unit number 137 had took 0 samples in it
+********************************
+unit number 138 had took 0 samples in it
+********************************
+unit number 139 had took 0 samples in it
+********************************
+unit number 140 had took 0 samples in it
+********************************
+unit number 141 had took 82 samples in it
+********************************
+unit number 142 had took 0 samples in it
+********************************
+unit number 143 had took 145 samples in it
+********************************
+unit number 144 had took 0 samples in it
+********************************
+unit number 145 had took 0 samples in it
+********************************
+unit number 146 had took 0 samples in it
+********************************
+unit number 147 had took 0 samples in it
+********************************
+unit number 148 had took 0 samples in it
+********************************
+unit number 149 had took 354 samples in it
+********************************
+unit number 150 had took 0 samples in it
+********************************
+unit number 151 had took 0 samples in it
+********************************
+unit number 152 had took 0 samples in it
+********************************
+unit number 153 had took 522 samples in it
+********************************
+unit number 154 had took 741 samples in it
+********************************
+unit number 155 had took 0 samples in it
+********************************
+unit number 156 had took 0 samples in it
+********************************
+unit number 157 had took 98 samples in it
+********************************
+unit number 158 had took 0 samples in it
+********************************
+unit number 159 had took 0 samples in it
+********************************
+unit number 160 had took 0 samples in it
+********************************
+unit number 161 had took 0 samples in it
+********************************
+unit number 162 had took 664 samples in it
+********************************
+unit number 163 had took 216 samples in it
+********************************
+unit number 164 had took 0 samples in it
+********************************
+unit number 165 had took 0 samples in it
+********************************
+unit number 166 had took 0 samples in it
+********************************
+unit number 167 had took 0 samples in it
+********************************
+unit number 168 had took 0 samples in it
+********************************
+unit number 169 had took 0 samples in it
+********************************
+unit number 170 had took 1967 samples in it
+********************************
+unit number 171 had took 0 samples in it
+********************************
+unit number 172 had took 0 samples in it
+********************************
+unit number 173 had took 0 samples in it
+********************************
+unit number 174 had took 0 samples in it
+********************************
+unit number 175 had took 0 samples in it
+********************************
+unit number 176 had took 0 samples in it
+********************************
+unit number 177 had took 0 samples in it
+********************************
+unit number 178 had took 0 samples in it
+********************************
+unit number 179 had took 0 samples in it
+********************************
+unit number 180 had took 0 samples in it
+********************************
+unit number 181 had took 0 samples in it
+********************************
+unit number 182 had took 0 samples in it
+********************************
+unit number 183 had took 31 samples in it
+********************************
+unit number 184 had took 0 samples in it
+********************************
+unit number 185 had took 0 samples in it
+********************************
+unit number 186 had took 0 samples in it
+********************************
+unit number 187 had took 66 samples in it
+********************************
+unit number 188 had took 0 samples in it
+********************************
+unit number 189 had took 0 samples in it
+********************************
+unit number 190 had took 0 samples in it
+********************************
+unit number 191 had took 0 samples in it
+********************************
+unit number 192 had took 364 samples in it
+********************************
+unit number 193 had took 0 samples in it
+********************************
+unit number 194 had took 0 samples in it
+********************************
+unit number 195 had took 0 samples in it
+********************************
+unit number 196 had took 0 samples in it
+********************************
+unit number 197 had took 0 samples in it
+********************************
+unit number 198 had took 40 samples in it
+********************************
+unit number 199 had took 0 samples in it
+********************************
+unit number 200 had took 0 samples in it
+********************************
+unit number 201 had took 755 samples in it
+********************************
+unit number 202 had took 0 samples in it
+********************************
+unit number 203 had took 0 samples in it
+********************************
+unit number 204 had took 44 samples in it
+********************************
+unit number 205 had took 0 samples in it
+********************************
+unit number 206 had took 0 samples in it
+********************************
+unit number 207 had took 0 samples in it
+********************************
+unit number 208 had took 0 samples in it
+********************************
+unit number 209 had took 0 samples in it
+********************************
+unit number 210 had took 0 samples in it
+********************************
+unit number 211 had took 0 samples in it
+********************************
+unit number 212 had took 424 samples in it
+********************************
+unit number 213 had took 0 samples in it
+********************************
+unit number 214 had took 521 samples in it
+********************************
+unit number 215 had took 0 samples in it
+********************************
+unit number 216 had took 0 samples in it
+********************************
+unit number 217 had took 0 samples in it
+********************************
+Program ended successefully!
+-6309.18
+-372.306
+49.3097
+36.0822
+14.1627
+17.2433
+8.71376
+21.9264
+12.8946
+16.5446
+5.79549
+6.85718
+4.11499
+11.8569
+8.58736
+9.54739
+1.38336
+5.53322
+2.40047
+0.550979
+********************************
+unit number 0 had took 1483 samples in it
+********************************
+unit number 1 had took 0 samples in it
+********************************
+unit number 2 had took 1 samples in it
+********************************
+unit number 3 had took 0 samples in it
+********************************
+unit number 4 had took 2 samples in it
+********************************
+unit number 5 had took 0 samples in it
+********************************
+unit number 6 had took 0 samples in it
+********************************
+unit number 7 had took 0 samples in it
+********************************
+unit number 8 had took 0 samples in it
+********************************
+unit number 9 had took 0 samples in it
+********************************
+unit number 10 had took 0 samples in it
+********************************
+unit number 11 had took 0 samples in it
+********************************
+unit number 12 had took 0 samples in it
+********************************
+unit number 13 had took 2376 samples in it
+********************************
+unit number 14 had took 0 samples in it
+********************************
+unit number 15 had took 561 samples in it
+********************************
+unit number 16 had took 0 samples in it
+********************************
+unit number 17 had took 0 samples in it
+********************************
+unit number 18 had took 0 samples in it
+********************************
+unit number 19 had took 0 samples in it
+********************************
+unit number 20 had took 0 samples in it
+********************************
+unit number 21 had took 0 samples in it
+********************************
+unit number 22 had took 0 samples in it
+********************************
+unit number 23 had took 0 samples in it
+********************************
+unit number 24 had took 862 samples in it
+********************************
+unit number 25 had took 0 samples in it
+********************************
+unit number 26 had took 0 samples in it
+********************************
+unit number 27 had took 0 samples in it
+********************************
+unit number 28 had took 0 samples in it
+********************************
+unit number 29 had took 0 samples in it
+********************************
+unit number 30 had took 342 samples in it
+********************************
+unit number 31 had took 0 samples in it
+********************************
+unit number 32 had took 0 samples in it
+********************************
+unit number 33 had took 0 samples in it
+********************************
+unit number 34 had took 16 samples in it
+********************************
+unit number 35 had took 0 samples in it
+********************************
+unit number 36 had took 0 samples in it
+********************************
+unit number 37 had took 0 samples in it
+********************************
+unit number 38 had took 0 samples in it
+********************************
+unit number 39 had took 0 samples in it
+********************************
+unit number 40 had took 0 samples in it
+********************************
+unit number 41 had took 0 samples in it
+********************************
+unit number 42 had took 0 samples in it
+********************************
+unit number 43 had took 0 samples in it
+********************************
+unit number 44 had took 0 samples in it
+********************************
+unit number 45 had took 0 samples in it
+********************************
+unit number 46 had took 0 samples in it
+********************************
+unit number 47 had took 0 samples in it
+********************************
+unit number 48 had took 0 samples in it
+********************************
+unit number 49 had took 0 samples in it
+********************************
+unit number 50 had took 949 samples in it
+********************************
+unit number 51 had took 0 samples in it
+********************************
+unit number 52 had took 0 samples in it
+********************************
+unit number 53 had took 0 samples in it
+********************************
+unit number 54 had took 0 samples in it
+********************************
+unit number 55 had took 0 samples in it
+********************************
+unit number 56 had took 0 samples in it
+********************************
+unit number 57 had took 0 samples in it
+********************************
+unit number 58 had took 1622 samples in it
+********************************
+unit number 59 had took 0 samples in it
+********************************
+unit number 60 had took 0 samples in it
+********************************
+unit number 61 had took 0 samples in it
+********************************
+unit number 62 had took 810 samples in it
+********************************
+unit number 63 had took 0 samples in it
+********************************
+unit number 64 had took 0 samples in it
+********************************
+unit number 65 had took 0 samples in it
+********************************
+unit number 66 had took 0 samples in it
+********************************
+unit number 67 had took 856 samples in it
+********************************
+unit number 68 had took 0 samples in it
+********************************
+unit number 69 had took 277 samples in it
+********************************
+unit number 70 had took 0 samples in it
+********************************
+unit number 71 had took 4483 samples in it
+********************************
+unit number 72 had took 0 samples in it
+********************************
+unit number 73 had took 0 samples in it
+********************************
+unit number 74 had took 0 samples in it
+********************************
+unit number 75 had took 0 samples in it
+********************************
+unit number 76 had took 0 samples in it
+********************************
+unit number 77 had took 0 samples in it
+********************************
+unit number 78 had took 0 samples in it
+********************************
+unit number 79 had took 0 samples in it
+********************************
+unit number 80 had took 0 samples in it
+********************************
+unit number 81 had took 0 samples in it
+********************************
+unit number 82 had took 73 samples in it
+********************************
+unit number 83 had took 0 samples in it
+********************************
+unit number 84 had took 0 samples in it
+********************************
+unit number 85 had took 0 samples in it
+********************************
+unit number 86 had took 0 samples in it
+********************************
+unit number 87 had took 419 samples in it
+********************************
+unit number 88 had took 0 samples in it
+********************************
+unit number 89 had took 42 samples in it
+********************************
+unit number 90 had took 0 samples in it
+********************************
+unit number 91 had took 0 samples in it
+********************************
+unit number 92 had took 227 samples in it
+********************************
+unit number 93 had took 0 samples in it
+********************************
+unit number 94 had took 0 samples in it
+********************************
+unit number 95 had took 0 samples in it
+********************************
+unit number 96 had took 0 samples in it
+********************************
+unit number 97 had took 121 samples in it
+********************************
+unit number 98 had took 0 samples in it
+********************************
+unit number 99 had took 0 samples in it
+********************************
+unit number 100 had took 60 samples in it
+********************************
+unit number 101 had took 0 samples in it
+********************************
+unit number 102 had took 0 samples in it
+********************************
+unit number 103 had took 778 samples in it
+********************************
+unit number 104 had took 0 samples in it
+********************************
+unit number 105 had took 0 samples in it
+********************************
+unit number 106 had took 0 samples in it
+********************************
+unit number 107 had took 0 samples in it
+********************************
+unit number 108 had took 0 samples in it
+********************************
+unit number 109 had took 80 samples in it
+********************************
+unit number 110 had took 0 samples in it
+********************************
+unit number 111 had took 0 samples in it
+********************************
+unit number 112 had took 6 samples in it
+********************************
+unit number 113 had took 0 samples in it
+********************************
+unit number 114 had took 0 samples in it
+********************************
+unit number 115 had took 0 samples in it
+********************************
+unit number 116 had took 0 samples in it
+********************************
+unit number 117 had took 0 samples in it
+********************************
+unit number 118 had took 0 samples in it
+********************************
+unit number 119 had took 0 samples in it
+********************************
+unit number 120 had took 0 samples in it
+********************************
+unit number 121 had took 0 samples in it
+********************************
+unit number 122 had took 0 samples in it
+********************************
+unit number 123 had took 0 samples in it
+********************************
+unit number 124 had took 0 samples in it
+********************************
+unit number 125 had took 0 samples in it
+********************************
+unit number 126 had took 0 samples in it
+********************************
+unit number 127 had took 0 samples in it
+********************************
+unit number 128 had took 311 samples in it
+********************************
+unit number 129 had took 0 samples in it
+********************************
+unit number 130 had took 0 samples in it
+********************************
+unit number 131 had took 0 samples in it
+********************************
+unit number 132 had took 0 samples in it
+********************************
+unit number 133 had took 0 samples in it
+********************************
+unit number 134 had took 0 samples in it
+********************************
+unit number 135 had took 0 samples in it
+********************************
+unit number 136 had took 3 samples in it
+********************************
+unit number 137 had took 0 samples in it
+********************************
+unit number 138 had took 0 samples in it
+********************************
+unit number 139 had took 0 samples in it
+********************************
+unit number 140 had took 0 samples in it
+********************************
+unit number 141 had took 0 samples in it
+********************************
+unit number 142 had took 0 samples in it
+********************************
+unit number 143 had took 0 samples in it
+********************************
+unit number 144 had took 0 samples in it
+********************************
+unit number 145 had took 5934 samples in it
+********************************
+unit number 146 had took 0 samples in it
+********************************
+unit number 147 had took 0 samples in it
+********************************
+unit number 148 had took 0 samples in it
+********************************
+unit number 149 had took 0 samples in it
+********************************
+unit number 150 had took 747 samples in it
+********************************
+unit number 151 had took 0 samples in it
+********************************
+unit number 152 had took 0 samples in it
+********************************
+unit number 153 had took 0 samples in it
+********************************
+unit number 154 had took 0 samples in it
+********************************
+unit number 155 had took 0 samples in it
+********************************
+unit number 156 had took 0 samples in it
+********************************
+unit number 157 had took 0 samples in it
+********************************
+unit number 158 had took 0 samples in it
+********************************
+unit number 159 had took 0 samples in it
+********************************
+unit number 160 had took 0 samples in it
+********************************
+unit number 161 had took 0 samples in it
+********************************
+unit number 162 had took 0 samples in it
+********************************
+unit number 163 had took 0 samples in it
+********************************
+unit number 164 had took 0 samples in it
+********************************
+unit number 165 had took 2047 samples in it
+********************************
+unit number 166 had took 0 samples in it
+********************************
+unit number 167 had took 0 samples in it
+********************************
+unit number 168 had took 0 samples in it
+********************************
+unit number 169 had took 0 samples in it
+********************************
+unit number 170 had took 0 samples in it
+********************************
+unit number 171 had took 0 samples in it
+********************************
+unit number 172 had took 37 samples in it
+********************************
+unit number 173 had took 0 samples in it
+********************************
+unit number 174 had took 0 samples in it
+********************************
+unit number 175 had took 158 samples in it
+********************************
+unit number 176 had took 0 samples in it
+********************************
+unit number 177 had took 0 samples in it
+********************************
+unit number 178 had took 0 samples in it
+********************************
+unit number 179 had took 0 samples in it
+********************************
+unit number 180 had took 0 samples in it
+********************************
+unit number 181 had took 0 samples in it
+********************************
+unit number 182 had took 0 samples in it
+********************************
+unit number 183 had took 0 samples in it
+********************************
+unit number 184 had took 0 samples in it
+********************************
+unit number 185 had took 0 samples in it
+********************************
+unit number 186 had took 0 samples in it
+********************************
+unit number 187 had took 0 samples in it
+********************************
+unit number 188 had took 0 samples in it
+********************************
+unit number 189 had took 0 samples in it
+********************************
+unit number 190 had took 4 samples in it
+********************************
+unit number 191 had took 0 samples in it
+********************************
+unit number 192 had took 0 samples in it
+********************************
+unit number 193 had took 0 samples in it
+********************************
+unit number 194 had took 0 samples in it
+********************************
+unit number 195 had took 0 samples in it
+********************************
+unit number 196 had took 20 samples in it
+********************************
+unit number 197 had took 0 samples in it
+********************************
+unit number 198 had took 538 samples in it
+********************************
+unit number 199 had took 0 samples in it
+********************************
+unit number 200 had took 0 samples in it
+********************************
+unit number 201 had took 0 samples in it
+********************************
+unit number 202 had took 0 samples in it
+********************************
+unit number 203 had took 0 samples in it
+********************************
+unit number 204 had took 1403 samples in it
+********************************
+unit number 205 had took 0 samples in it
+********************************
+unit number 206 had took 0 samples in it
+********************************
+unit number 207 had took 394 samples in it
+********************************
+unit number 208 had took 0 samples in it
+********************************
+unit number 209 had took 0 samples in it
+********************************
+unit number 210 had took 0 samples in it
+********************************
+unit number 211 had took 0 samples in it
+********************************
+unit number 212 had took 258 samples in it
+********************************
+unit number 213 had took 0 samples in it
+********************************
+unit number 214 had took 0 samples in it
+********************************
+unit number 215 had took 0 samples in it
+********************************
+unit number 216 had took 0 samples in it
+********************************
+unit number 217 had took 0 samples in it
+********************************
+Program ended successefully!
+-6870.6
+-821.309
+151.161
+166.093
+17.5643
+70.7932
+33.6708
+57.3559
+45.0561
+14.7596
+12.6583
+9.41156
+12.6693
+40.9511
+66.6741
+8.02585
+-0.237955
+********************************
+unit number 1 had took 0 samples in it
+********************************
+unit number 2 had took 2 samples in it
+********************************
+unit number 3 had took 0 samples in it
+********************************
+unit number 4 had took 0 samples in it
+********************************
+unit number 5 had took 51 samples in it
+********************************
+unit number 6 had took 0 samples in it
+********************************
+unit number 7 had took 0 samples in it
+********************************
+unit number 8 had took 0 samples in it
+********************************
+unit number 9 had took 0 samples in it
+********************************
+unit number 10 had took 0 samples in it
+********************************
+unit number 11 had took 0 samples in it
+********************************
+unit number 12 had took 0 samples in it
+********************************
+unit number 13 had took 0 samples in it
+********************************
+unit number 14 had took 0 samples in it
+********************************
+unit number 15 had took 0 samples in it
+********************************
+unit number 16 had took 48 samples in it
+********************************
+unit number 17 had took 0 samples in it
+********************************
+unit number 18 had took 0 samples in it
+********************************
+unit number 19 had took 0 samples in it
+********************************
+unit number 20 had took 0 samples in it
+********************************
+unit number 21 had took 0 samples in it
+********************************
+unit number 22 had took 0 samples in it
+********************************
+unit number 23 had took 0 samples in it
+********************************
+unit number 24 had took 0 samples in it
+********************************
+unit number 25 had took 0 samples in it
+********************************
+unit number 26 had took 0 samples in it
+********************************
+unit number 27 had took 0 samples in it
+********************************
+unit number 28 had took 0 samples in it
+********************************
+unit number 29 had took 117 samples in it
+********************************
+unit number 30 had took 0 samples in it
+********************************
+unit number 31 had took 0 samples in it
+********************************
+unit number 32 had took 0 samples in it
+********************************
+unit number 33 had took 0 samples in it
+********************************
+unit number 34 had took 233 samples in it
+********************************
+unit number 35 had took 53 samples in it
+********************************
+unit number 36 had took 284 samples in it
+********************************
+unit number 37 had took 0 samples in it
+********************************
+unit number 38 had took 0 samples in it
+********************************
+unit number 39 had took 100 samples in it
+********************************
+unit number 40 had took 52 samples in it
+********************************
+unit number 41 had took 0 samples in it
+********************************
+unit number 42 had took 0 samples in it
+********************************
+unit number 43 had took 0 samples in it
+********************************
+unit number 44 had took 0 samples in it
+********************************
+unit number 45 had took 0 samples in it
+********************************
+unit number 46 had took 0 samples in it
+********************************
+unit number 47 had took 0 samples in it
+********************************
+unit number 48 had took 0 samples in it
+********************************
+unit number 49 had took 0 samples in it
+********************************
+unit number 50 had took 0 samples in it
+********************************
+unit number 51 had took 0 samples in it
+********************************
+unit number 52 had took 0 samples in it
+********************************
+unit number 53 had took 0 samples in it
+********************************
+unit number 54 had took 0 samples in it
+********************************
+unit number 55 had took 0 samples in it
+********************************
+unit number 56 had took 0 samples in it
+********************************
+unit number 57 had took 0 samples in it
+********************************
+unit number 58 had took 0 samples in it
+********************************
+unit number 59 had took 0 samples in it
+********************************
+unit number 60 had took 0 samples in it
+********************************
+unit number 61 had took 0 samples in it
+********************************
+unit number 62 had took 0 samples in it
+********************************
+unit number 63 had took 0 samples in it
+********************************
+unit number 64 had took 0 samples in it
+********************************
+unit number 65 had took 0 samples in it
+********************************
+unit number 66 had took 0 samples in it
+********************************
+unit number 67 had took 0 samples in it
+********************************
+unit number 68 had took 0 samples in it
+********************************
+unit number 69 had took 34 samples in it
+********************************
+unit number 70 had took 32 samples in it
+********************************
+unit number 71 had took 0 samples in it
+********************************
+unit number 72 had took 0 samples in it
+********************************
+unit number 73 had took 0 samples in it
+********************************
+unit number 74 had took 69 samples in it
+********************************
+unit number 75 had took 0 samples in it
+********************************
+unit number 76 had took 161 samples in it
+********************************
+unit number 77 had took 0 samples in it
+********************************
+unit number 78 had took 0 samples in it
+********************************
+unit number 79 had took 0 samples in it
+********************************
+unit number 80 had took 46 samples in it
+********************************
+unit number 81 had took 0 samples in it
+********************************
+unit number 82 had took 80 samples in it
+********************************
+unit number 83 had took 30 samples in it
+********************************
+unit number 84 had took 0 samples in it
+********************************
+unit number 85 had took 0 samples in it
+********************************
+unit number 86 had took 0 samples in it
+********************************
+unit number 87 had took 0 samples in it
+********************************
+unit number 88 had took 0 samples in it
+********************************
+unit number 89 had took 0 samples in it
+********************************
+unit number 90 had took 7 samples in it
+********************************
+unit number 91 had took 0 samples in it
+********************************
+unit number 92 had took 0 samples in it
+********************************
+unit number 93 had took 398 samples in it
+********************************
+unit number 94 had took 0 samples in it
+********************************
+unit number 95 had took 0 samples in it
+********************************
+unit number 96 had took 0 samples in it
+********************************
+unit number 97 had took 0 samples in it
+********************************
+unit number 98 had took 0 samples in it
+********************************
+unit number 99 had took 0 samples in it
+********************************
+unit number 100 had took 0 samples in it
+********************************
+unit number 101 had took 0 samples in it
+********************************
+unit number 102 had took 50 samples in it
+********************************
+unit number 103 had took 6255 samples in it
+********************************
+unit number 104 had took 0 samples in it
+********************************
+unit number 105 had took 0 samples in it
+********************************
+unit number 106 had took 0 samples in it
+********************************
+unit number 107 had took 1355 samples in it
+********************************
+unit number 108 had took 0 samples in it
+********************************
+unit number 109 had took 0 samples in it
+********************************
+unit number 110 had took 0 samples in it
+********************************
+unit number 111 had took 846 samples in it
+********************************
+unit number 112 had took 0 samples in it
+********************************
+unit number 113 had took 51 samples in it
+********************************
+unit number 114 had took 0 samples in it
+********************************
+unit number 115 had took 0 samples in it
+********************************
+unit number 116 had took 0 samples in it
+********************************
+unit number 117 had took 0 samples in it
+********************************
+unit number 118 had took 0 samples in it
+********************************
+unit number 119 had took 270 samples in it
+********************************
+unit number 120 had took 40 samples in it
+********************************
+unit number 121 had took 0 samples in it
+********************************
+unit number 122 had took 0 samples in it
+********************************
+unit number 123 had took 15 samples in it
+********************************
+unit number 124 had took 5 samples in it
+********************************
+unit number 125 had took 0 samples in it
+********************************
+unit number 126 had took 0 samples in it
+********************************
+unit number 127 had took 0 samples in it
+********************************
+unit number 128 had took 0 samples in it
+********************************
+unit number 129 had took 0 samples in it
+********************************
+unit number 130 had took 0 samples in it
+********************************
+unit number 131 had took 0 samples in it
+********************************
+unit number 132 had took 220 samples in it
+********************************
+unit number 133 had took 0 samples in it
+********************************
+unit number 134 had took 0 samples in it
+********************************
+unit number 135 had took 0 samples in it
+********************************
+unit number 136 had took 0 samples in it
+********************************
+unit number 137 had took 0 samples in it
+********************************
+unit number 138 had took 0 samples in it
+********************************
+unit number 139 had took 0 samples in it
+********************************
+unit number 140 had took 0 samples in it
+********************************
+unit number 141 had took 0 samples in it
+********************************
+unit number 142 had took 161 samples in it
+********************************
+unit number 143 had took 0 samples in it
+********************************
+unit number 144 had took 106 samples in it
+********************************
+unit number 145 had took 0 samples in it
+********************************
+unit number 146 had took 0 samples in it
+********************************
+unit number 147 had took 0 samples in it
+********************************
+unit number 148 had took 0 samples in it
+********************************
+unit number 149 had took 0 samples in it
+********************************
+unit number 150 had took 0 samples in it
+********************************
+unit number 151 had took 0 samples in it
+********************************
+unit number 152 had took 0 samples in it
+********************************
+unit number 153 had took 136 samples in it
+********************************
+unit number 154 had took 0 samples in it
+********************************
+unit number 155 had took 0 samples in it
+********************************
+unit number 156 had took 0 samples in it
+********************************
+unit number 157 had took 0 samples in it
+********************************
+unit number 158 had took 0 samples in it
+********************************
+unit number 159 had took 0 samples in it
+********************************
+unit number 160 had took 241 samples in it
+********************************
+unit number 161 had took 847 samples in it
+********************************
+unit number 162 had took 0 samples in it
+********************************
+unit number 163 had took 0 samples in it
+********************************
+unit number 164 had took 0 samples in it
+********************************
+unit number 165 had took 105 samples in it
+********************************
+unit number 166 had took 256 samples in it
+********************************
+unit number 167 had took 571 samples in it
+********************************
+unit number 168 had took 0 samples in it
+********************************
+unit number 169 had took 351 samples in it
+********************************
+unit number 170 had took 0 samples in it
+********************************
+unit number 171 had took 0 samples in it
+********************************
+unit number 172 had took 0 samples in it
+********************************
+unit number 173 had took 0 samples in it
+********************************
+unit number 174 had took 0 samples in it
+********************************
+unit number 175 had took 6942 samples in it
+********************************
+unit number 176 had took 0 samples in it
+********************************
+unit number 177 had took 0 samples in it
+********************************
+unit number 178 had took 0 samples in it
+********************************
+unit number 179 had took 0 samples in it
+********************************
+unit number 180 had took 0 samples in it
+********************************
+unit number 181 had took 0 samples in it
+********************************
+unit number 182 had took 34 samples in it
+********************************
+unit number 183 had took 0 samples in it
+********************************
+unit number 184 had took 0 samples in it
+********************************
+unit number 185 had took 0 samples in it
+********************************
+unit number 186 had took 0 samples in it
+********************************
+unit number 187 had took 848 samples in it
+********************************
+unit number 188 had took 0 samples in it
+********************************
+unit number 189 had took 15 samples in it
+********************************
+unit number 190 had took 0 samples in it
+********************************
+unit number 191 had took 17 samples in it
+********************************
+unit number 192 had took 0 samples in it
+********************************
+unit number 193 had took 1273 samples in it
+********************************
+unit number 194 had took 0 samples in it
+********************************
+unit number 195 had took 0 samples in it
+********************************
+unit number 196 had took 0 samples in it
+********************************
+unit number 197 had took 0 samples in it
+********************************
+unit number 198 had took 0 samples in it
+********************************
+unit number 199 had took 0 samples in it
+********************************
+unit number 200 had took 0 samples in it
+********************************
+unit number 201 had took 0 samples in it
+********************************
+unit number 202 had took 0 samples in it
+********************************
+unit number 203 had took 0 samples in it
+********************************
+unit number 204 had took 1154 samples in it
+********************************
+unit number 205 had took 9 samples in it
+********************************
+unit number 206 had took 0 samples in it
+********************************
+unit number 207 had took 0 samples in it
+********************************
+unit number 208 had took 6 samples in it
+********************************
+unit number 209 had took 0 samples in it
+********************************
+unit number 210 had took 0 samples in it
+********************************
+unit number 211 had took 0 samples in it
+********************************
+unit number 212 had took 0 samples in it
+********************************
+unit number 213 had took 0 samples in it
+********************************
+unit number 214 had took 79 samples in it
+********************************
+unit number 215 had took 0 samples in it
+********************************
+unit number 216 had took 0 samples in it
+********************************
+unit number 217 had took 0 samples in it
+********************************
+Program ended successefully!

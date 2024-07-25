@@ -1,0 +1,70 @@
+﻿  Normalizer.cpp
+C:\Work\cpp_projects\billionaires\Normalizer.cpp(24,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\Normalizer.cpp(26,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\Normalizer.cpp(51,63): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\algorithm(246,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "auto Normalizer::convertHonkongToChina::<lambda_1>::operator ()<std::vector<double,std::allocator<double>>>(const _T1 &) const"
+          with
+          [
+              _T1=std::vector<double,std::allocator<double>>
+          ]
+C:\Work\cpp_projects\billionaires\Normalizer.cpp(42,2): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Fn std::for_each<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,Normalizer::convertHonkongToChina::<lambda_1>>(_InIt,_InIt,_Fn)"
+          with
+          [
+              _Fn=Normalizer::convertHonkongToChina::<lambda_1>,
+              _Ty=std::vector<double,std::allocator<double>>,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::vector<double,std::allocator<double>>>>>
+          ]
+  readerEncoder.cpp
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(291,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(292,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(302,13): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(447,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(643,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(644,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(652,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(654,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(657,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(662,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(675,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(452,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\algorithm(246,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "auto readerEncoder::constructFeatureOneHot::<lambda_1>::operator ()<std::vector<std::string,std::allocator<std::string>>>(_T1 &) const"
+          with
+          [
+              _T1=std::vector<std::string,std::allocator<std::string>>
+          ]
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(449,2): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Fn std::for_each<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,readerEncoder::constructFeatureOneHot::<lambda_1>>(_InIt,_InIt,_Fn)"
+          with
+          [
+              _Fn=readerEncoder::constructFeatureOneHot::<lambda_1>,
+              _Ty=std::vector<std::string,std::allocator<std::string>>,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::vector<std::string,std::allocator<std::string>>>>>
+          ]
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(478,29): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\algorithm(246,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "auto readerEncoder::constructFeatureOneHot::<lambda_2>::operator ()<std::vector<std::string,std::allocator<std::string>>>(_T1 &) const"
+          with
+          [
+              _T1=std::vector<std::string,std::allocator<std::string>>
+          ]
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(474,2): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Fn std::for_each<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,readerEncoder::constructFeatureOneHot::<lambda_2>>(_InIt,_InIt,_Fn)"
+          with
+          [
+              _Fn=readerEncoder::constructFeatureOneHot::<lambda_2>,
+              _Ty=std::vector<std::string,std::allocator<std::string>>,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::vector<std::string,std::allocator<std::string>>>>>
+          ]
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(478,19): warning C4244: инициализация: преобразование "__int64" в "const int", возможна потеря данных
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(601,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\algorithm(246,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "auto readerEncoder::constructFeatureTarget::<lambda_2>::operator ()<std::vector<std::string,std::allocator<std::string>>>(_T1 &) const"
+          with
+          [
+              _T1=std::vector<std::string,std::allocator<std::string>>
+          ]
+C:\Work\cpp_projects\billionaires\readerEncoder.cpp(596,2): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Fn std::for_each<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,readerEncoder::constructFeatureTarget::<lambda_2>>(_InIt,_InIt,_Fn)"
+          with
+          [
+              _Fn=readerEncoder::constructFeatureTarget::<lambda_2>,
+              _Ty=std::vector<std::string,std::allocator<std::string>>,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::vector<std::string,std::allocator<std::string>>>>>
+          ]
+  Создание кода...
+  billionaires.vcxproj -> C:\Work\cpp_projects\billionaires\x64\Debug\billionaires.exe
