@@ -27,7 +27,7 @@
 - Python: `jupyter notebook`
 
 ## Пример использования
-
+```python
 documents = []
 text = ""
 for i in range(1, my_docs_len):
@@ -41,3 +41,4 @@ queries = [""] * query_len
 for j in range(my_query_len):
     queries[j] = input()
 ...
+```
