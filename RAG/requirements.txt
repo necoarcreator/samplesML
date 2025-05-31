@@ -1,0 +1,11 @@
+gradio_client
+sentence-transformers
+langchain
+scikit-learn
+faiss-cpu  # или faiss-gpu, если используется CUDA
+bert-score
+torch
+numpy
+pprint
+json
+re
