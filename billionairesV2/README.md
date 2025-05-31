@@ -11,11 +11,12 @@
 - g++ (или любой совместимый C++11 компилятор)
 - GNU Make
 - ОС Linux / macOS (на Windows можно собрать через WSL или MinGW)
-  
+- Python 3.8+
+- Установленные зависимости (указаны в requirements.txt)
 ## Установка
 
 Как установить зависимости:
-- Для Python: `pip install -r requirements.txt` или `conda env create -f environment.yml`
+- Для Python: `pip install -r requirements.txt`
 - Для C++: `mkdir build && cd build && cmake .. && make`
 
 ## Запуск
@@ -26,7 +27,7 @@
 Чтобы пересобрать проект - `make rebuild`
 
 ## Пример использования
-
+```cpp
 #include "KohonenMap.h"
 
 using namespace std;
@@ -58,3 +59,4 @@ int main()
 	return 0;
 
 }
+```
