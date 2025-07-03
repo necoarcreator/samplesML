@@ -1,0 +1,6 @@
+torch
+diffusers
+gradio_client
+moviepy
+numpy
+scipy
