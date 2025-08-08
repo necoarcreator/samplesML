@@ -1,0 +1,15 @@
+## Создание планов лекций с помощью Whisper-V3-large-ru + Qwen-3-0.6B
+Проект состоит из следующих этапов:
+1. Создание синтетического датасета
+   а) загрузка лекций по математике на русском из Youtube в формате .mp3 с помощью скрипта с yt-dlp
+   б) транскрибация с использованием Whisper-V3-large-ru
+   в) разметка данных моделью gpt-OSS-120b с промпт-инжинирингом и few-shot
+   г) запись в json пар текст-план для каждой лекции
+2. Локальное дообучение Qwen-3-06B с QLoRA
+   Параметры: квантизация BitsAndBytes; torch_dtype = torch.float16; r_lora = 8; alpha_lora = 16; lora_dropout = 0.1;
+   target_modules=["q_proj", "v_proj"]; learning_rate=2e-4
+   Сравнение base модели с fine-tuned:
+   wip
+3. Деплой с fastAPI + Docker
+   wip 
+   
