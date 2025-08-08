@@ -6,8 +6,7 @@
    в) разметка данных моделью gpt-OSS-120b с промпт-инжинирингом и few-shot  
    г) запись в json пар текст-план для каждой лекции  
 2. Локальное дообучение Qwen-3-06B с QLoRA  
-   Параметры: квантизация BitsAndBytes; torch_dtype = torch.float16; r_lora = 8; alpha_lora = 16; lora_dropout = 0.1;
-   target_modules=["q_proj", "v_proj"]; learning_rate=2e-4  
+   Параметры: квантизация BitsAndBytes; r_lora = 16; alpha_lora = 16; lora_dropout = 0.1; learning_rate=2e-4  
    Сравнение base модели с fine-tuned:  
    wip
 3. Деплой с fastAPI + Docker  
