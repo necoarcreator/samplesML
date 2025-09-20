@@ -15,8 +15,8 @@ run_pipe()
 ├── dataset/                  # Трейновый датасет    
 &emsp ├── dataset.txt    
 ├── dictionary/               # Данные: обычный и частотный словари    
-&emsp├── ruscorpora_content.csv  # Спасибо Russian National Corpus за частотный словарь русского языка!    
-&emsp├── russian.txt             # Спасибо Danakt Saushkin за словарь русского языка!    
+&emsp ├── ruscorpora_content.csv  # Спасибо Russian National Corpus за частотный словарь русского языка!    
+&emsp ├── russian.txt             # Спасибо Danakt Saushkin за словарь русского языка!    
 ├── main.py                   # Главный скрипт запуска    
 ├── models.py                 # Модели: GreedySpacer, DPSpacer, WordValidator    
 ├── ds_loader.py              # Загрузчик датасета    
