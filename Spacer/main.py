@@ -1,4 +1,4 @@
-import pandas as pd, numpy as np
+import pandas as pd, numpy as np, re
 from tqdm import tqdm
 from ds_loader import load_dataset
 from models import GreedySpacer, DPSpacer, WordValidator, SentencePieceTokenizer
@@ -20,7 +20,7 @@ def refine_segmentation_batch(bert_validator, dp_segmenter,
                 final_words.append(word)
             else:
                 # Повторная сегментация жадным алгоритмом
-                refined = greedy_segmenter.segment(word).split()
+                refined = greedy_segmenter.fit_predict(word)
                 refined_filtered = []
 
                 # Проверяем батчем
@@ -31,7 +31,7 @@ def refine_segmentation_batch(bert_validator, dp_segmenter,
                         refined_filtered.append(w)
                     else:
                         # Fallback: жадная сегментация SentencePiece
-                        greedy_result = sp_segmenter.fit_predict(w).split()
+                        greedy_result = sp_segmenter.fit_predict(w)
                         refined_filtered.extend(greedy_result)
 
                 if len(refined_filtered) > 1:
@@ -42,7 +42,7 @@ def refine_segmentation_batch(bert_validator, dp_segmenter,
         results.append(" ".join(final_words))
     return results
 
-def run_pipe():
+def run_pipe(ds : pd.DataFrame = None) -> list[str]:
     ds = load_dataset()
     dp = DPSpacer()
     greedy = GreedySpacer()
@@ -50,3 +50,20 @@ def run_pipe():
     sentencepiece = SentencePieceTokenizer()
 
     return refine_segmentation_batch(bert, dp, greedy, sentencepiece, ds['text_no_spaces'])
+
+def transform_data() -> pd.DataFrame:
+    ds = load_dataset()
+    results = run_pipe(ds)
+    if isinstance(ds, dict):
+        df_result = pd.DataFrame(ds)
+    else:
+        df_result = ds.to_pandas() if hasattr(ds, 'to_pandas') else pd.DataFrame(ds)
+
+    predicted_positions_list = []
+
+    for i, row in tqdm(df_result.iterrows(), total=len(df_result), desc='Transforming data'):
+        predicted_positions = [match.start() for match in re.finditer(" ", results[i])]
+        predicted_positions_list.append(predicted_positions)
+
+    df_result['predicted_positions'] = predicted_positions_list
+    return df_result

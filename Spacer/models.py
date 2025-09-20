@@ -1,5 +1,6 @@
 import numpy as np, re
 from collections import defaultdict
+from typing import Union
 import torch
 import torch.nn as nn
 from transformers import BertTokenizer, BertPreTrainedModel, BertModel
@@ -110,11 +111,14 @@ class GreedySpacer:
         
         return text_to_parse
     
-    def fit_predict(self, dataset_to_parse: list[str]) -> list[str]:
+    def fit_predict(self, dataset_to_parse: Union[str, list[str]]) -> list[str]:
         """
         Предобрабатывает датасет перед применением более сложной модели.
         """
         result = []
+        if isinstance(dataset_to_parse, str):
+            dataset_to_parse = [dataset_to_parse]
+
         for text in dataset_to_parse:
             text = self.process_numbers(text)
             text = self.process_punctuation(text)
@@ -345,12 +349,14 @@ class BertForMultiTask(BertPreTrainedModel):
         x = self.dropout(self.bert(input_ids, attention_mask=attention_mask).last_hidden_state)
         return {"seg_logits": self.seg_head(x), "cls_logits": self.cls_head(x)}
 
-class SentencePieceTokenizer(nn.Module):
+class SentencePieceTokenizer():
     def __init__(self):
         from transformers import AutoTokenizer
         self.tokenizer = AutoTokenizer.from_pretrained("cointegrated/rubert-tiny2")
         
-    def fit_prefict(self, text : list[str]) -> list[str]:
+    def fit_predict(self, text : Union[str, list[str]]) -> list[str]:
+        if isinstance(text, str):
+            dataset_to_parse = [text]
         tokens = self.tokenizer.tokenize(text)
         for i, token in enumerate(tokens):
             if token.startswith("##"):
