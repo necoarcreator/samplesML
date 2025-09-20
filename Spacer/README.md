@@ -8,8 +8,9 @@ cd Spacer
 2. Установите зависимости  
 pip install -r requirements.txt  
 3. Запуск  
-from main import run_pipe  
-run_pipe()  
+from main import run_pipe, transform_data  
+run_pipe() # просто возвращает строки-результаты, не преобразует датасет  
+transform_data() # не возвращает сами переделанные строки, но добавляет столбец к датасету с позициями пробелов
 ## Структура проекта   
 .    
 ├── dataset/                  # Трейновый датасет    
