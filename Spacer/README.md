@@ -11,19 +11,19 @@ pip install -r requirements.txt
 from main import run_pipe  
 run_pipe()  
 ## Структура проекта   
-.  
-├── dataset/                  # Трейновый датасет  
-  ├── dataset.txt  
-├── dictionary/               # Данные: обычный и частотный словари  
-  ├── ruscorpora_content.csv  # Спасибо Russian National Corpus за частотный словарь русского языка!  
-  ├── russian.txt             # Спасибо Danakt Saushkin за словарь русского языка!  
-├── main.py                   # Главный скрипт запуска  
-├── models.py                 # Модели: GreedySpacer, DPSpacer, WordValidator  
-├── ds_loader.py              # Загрузчик датасета  
-├── ru_loader.py              # Загрузчик словарей  
-├── unittests.py              # Набор тестов для моделей  
-├── .gitignore                # Игнорируемые файлы  
-└── README.md                 # Этот файл  
+.    
+├── dataset/                  # Трейновый датасет    
+  ├── dataset.txt    
+├── dictionary/               # Данные: обычный и частотный словари    
+  ├── ruscorpora_content.csv  # Спасибо Russian National Corpus за частотный словарь русского языка!    
+  ├── russian.txt             # Спасибо Danakt Saushkin за словарь русского языка!    
+├── main.py                   # Главный скрипт запуска    
+├── models.py                 # Модели: GreedySpacer, DPSpacer, WordValidator    
+├── ds_loader.py              # Загрузчик датасета    
+├── ru_loader.py              # Загрузчик словарей    
+├── unittests.py              # Набор тестов для моделей    
+├── .gitignore                # Игнорируемые файлы    
+└── README.md                 # Этот файл    
 ## Принцип работы пайплайна  
 1. DPSpacer — сегментирует текст с помощью динамического программирования, опираясь на частотный словарь.  
 2. WordValidator (на основе BERT) — проверяет, является ли слово «морфологически правильным» (имеет 1 корень, логичную структуру морфем).  
