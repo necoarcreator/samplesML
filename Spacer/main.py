@@ -1,12 +1,14 @@
 import pandas as pd, numpy as np
 from tqdm import tqdm
 from ds_loader import load_dataset
-from models import GreedySpacer, DPSpacer, WordValidator
+from models import GreedySpacer, DPSpacer, WordValidator, SentencePieceTokenizer
 
-def refine_segmentation_batch(bert_validator, dp_segmenter, greedy_segmenter, texts: list[str]) -> list[str]:
+def refine_segmentation_batch(bert_validator, dp_segmenter, 
+                              greedy_segmenter, sp_segmenter, texts: list[str]) -> list[str]:
     results = []
     for text in tqdm(texts, desc='Processing texts'):
         
+        # Первичная сегментация ДП
         words = dp_segmenter.segment(text).split()
         final_words = []
 
@@ -17,8 +19,8 @@ def refine_segmentation_batch(bert_validator, dp_segmenter, greedy_segmenter, te
             if is_good:
                 final_words.append(word)
             else:
-                # Повторная сегментация без лишнего препроцессинга
-                refined = dp_segmenter.segment(word).split()
+                # Повторная сегментация жадным алгоритмом
+                refined = greedy_segmenter.segment(word).split()
                 refined_filtered = []
 
                 # Проверяем батчем
@@ -28,8 +30,8 @@ def refine_segmentation_batch(bert_validator, dp_segmenter, greedy_segmenter, te
                     if w_is_good:
                         refined_filtered.append(w)
                     else:
-                        # Fallback: жадная сегментация без препроцессинга
-                        greedy_result = greedy_segmenter.max_match_segment(w).split()
+                        # Fallback: жадная сегментация SentencePiece
+                        greedy_result = sp_segmenter.fit_predict(w).split()
                         refined_filtered.extend(greedy_result)
 
                 if len(refined_filtered) > 1:
@@ -45,5 +47,6 @@ def run_pipe():
     dp = DPSpacer()
     greedy = GreedySpacer()
     bert = WordValidator()
+    sentencepiece = SentencePieceTokenizer()
 
-    return refine_segmentation_batch(bert, dp, greedy, ds['text_no_spaces'])
+    return refine_segmentation_batch(bert, dp, greedy, sentencepiece, ds['text_no_spaces'])

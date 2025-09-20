@@ -345,6 +345,18 @@ class BertForMultiTask(BertPreTrainedModel):
         x = self.dropout(self.bert(input_ids, attention_mask=attention_mask).last_hidden_state)
         return {"seg_logits": self.seg_head(x), "cls_logits": self.cls_head(x)}
 
+class SentencePieceTokenizer(nn.Module):
+    def __init__(self):
+        from transformers import AutoTokenizer
+        self.tokenizer = AutoTokenizer.from_pretrained("cointegrated/rubert-tiny2")
+        
+    def fit_prefict(self, text : list[str]) -> list[str]:
+        tokens = self.tokenizer.tokenize(text)
+        for i, token in enumerate(tokens):
+            if token.startswith("##"):
+                tokens[i] = token[2:]
+        return tokens
+
 
 class WordValidator:
     def __init__(self, model_dir=MODEL_DIR, device=DEVICE, max_len=MAX_LEN):
